@@ -1,0 +1,6 @@
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_02_13 - Liczby (nie)pierwsze\bin\Debug\FR_02_13 - Liczby (nie)pierwsze.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_02_13 - Liczby (nie)pierwsze\bin\Debug\FR_02_13 - Liczby (nie)pierwsze.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_02_13 - Liczby (nie)pierwsze\bin\Debug\FR_02_13 - Liczby (nie)pierwsze.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_02_13 - Liczby (nie)pierwsze\obj\Debug\FR_02_13 - Liczby (nie)pierwsze.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_02_13 - Liczby (nie)pierwsze\obj\Debug\FR_02_13 - Liczby (nie)pierwsze.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_02_13 - Liczby (nie)pierwsze\obj\Debug\FR_02_13 - Liczby (nie)pierwsze.csprojAssemblyReference.cache
